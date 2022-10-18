@@ -1,0 +1,11 @@
+.nav-link dropdown-toggle :hover{
+    background: rgba(122, 179, 243, 0.2);
+}
+.logout{
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+#hover-item:hover{
+    background: rgba(122, 179, 243, 0.2);
+}

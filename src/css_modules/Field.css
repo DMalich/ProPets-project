@@ -1,0 +1,10 @@
+.error{
+    color: red;
+    font-size: .6rem;
+    
+}
+
+.input{
+    display: flex;
+    flex-direction: column;
+}
